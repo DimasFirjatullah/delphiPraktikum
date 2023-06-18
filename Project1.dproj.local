@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="C:"/>
+    <File Path="C:\tugas Delphi"/>
+    <File Path="C:\tugas Delphi\Pembayaran.pas"/>
+    <File Path="C:\tugas Delphi\Pembayaran.dfm"/>
+    <File Path="praktikum1.pas"/>
+    <File Path="praktikum1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit9.pas"/>
+    <File Path="Unit9.dfm"/>
+    <File Path="Unit10.pas"/>
+    <File Path="Unit10.dfm"/>
+    <File Path="Unit11.pas"/>
+    <File Path="Unit11.dfm"/>
+    <File Path="Unit12.pas"/>
+    <File Path="Unit12.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
